@@ -1,0 +1,30 @@
+INSTALLATION
+
+  This is a one step process.  This pertains to Croissanga, version 1.3
+  and up.
+
+  Step 0: PHP CURL
+
+  Make sure PHP CURL is installed.  Check the output of phpinfo(), ask
+  your service admin, etc.
+
+
+  Step 1: Upload the plugin
+
+  The plugin files are listed in README.  Non-functioning files are named
+  in all caps; the other files must be in a croissanga/ directory, and
+  that must be in your WordPress plugin/ directory (read again: it MUST
+  be named croissanga).
+
+
+  Step 2: Activate and configure
+
+  Go to your plugin management page and activate Croissanga.  You will now
+  have a 'Croissanga' submenu under 'Options' from which you can configure
+  Croissanga.
+
+  Make sure you fill out the Xanga username and password in the options
+  section or Croissanga will not operate.
+
+
+  That's it!
